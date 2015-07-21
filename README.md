@@ -1,5 +1,5 @@
 # spark-charlotte-r-users-group
-Presentation to the Charlotte R Users Group on 7-20-2015
+Presentation to the Charlotte R Users Group on 7-20-2015 (<a href="http://www.meetup.com/Charlotte-R-Users-Group/events/223694628/">meetup link</a>)
 
 There are three files of interest here:
 
